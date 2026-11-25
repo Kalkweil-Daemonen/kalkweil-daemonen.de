@@ -1,0 +1,1 @@
+Interner Entwurf. index.html lokal öffnen. Keine Veröffentlichung vor Freigabe der Bildrechte, Ergänzung von Impressum und Datenschutz sowie Prüfung der Inhalte. Stonecross ist nicht enthalten; CSS nutzt die lokal installierte Schrift, sofern vorhanden, sonst Georgia. Keine vertraulichen Vereinsdaten hochladen. robots noindex ist kein Zugriffsschutz.
